@@ -13,7 +13,6 @@ public class App {
         System.out.println("-------------");
         System.out.println("ho va ten " + hoTen + "co " +maSinhVien +"hoc o lop co ma"+ maLopHoc);
         System.out.println("nhap vao ten");
-        String abc = sc.nextLine();
-        System.out.println("ma sinh vien");
+
     }
 }
