@@ -16,7 +16,5 @@ public class App {
         String abc = sc.nextLine();
         System.out.println("ma sinh vien");
         long xzz = sc.nextLong();
-        System.out.println("nhap vao ma lop hoc");
-        int cxcx = sc.nextInt();
     }
 }
