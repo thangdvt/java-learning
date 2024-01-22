@@ -18,5 +18,6 @@ public class App {
         long xzz = sc.nextLong();
         System.out.println("nhap vao ma lop hoc");
         int cxcx = sc.nextInt();
+
     }
 }
