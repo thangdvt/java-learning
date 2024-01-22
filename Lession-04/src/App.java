@@ -15,8 +15,5 @@ public class App {
         System.out.println("nhap vao ten");
         String abc = sc.nextLine();
         System.out.println("ma sinh vien");
-        long xzz = sc.nextLong();
-        System.out.println("nhap vao ma lop hoc");
-
     }
 }
