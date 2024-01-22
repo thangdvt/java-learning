@@ -12,6 +12,5 @@ public class App {
         int maLopHoc = sc.nextInt();
         System.out.println("-------------");
         System.out.println("ho va ten " + hoTen + "co " +maSinhVien +"hoc o lop co ma"+ maLopHoc);
-
     }
 }
