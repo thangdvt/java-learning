@@ -8,8 +8,6 @@ public class App {
         System.out.println("so ++a = " + (++a));
         System.out.println("so a++ = " + (a++));
         System.out.println("so a = " + (a));
-        System.out.println("so --a = " + (--a));
-        System.out.println("so a-- = " + (a--));
     }
 }
  
